@@ -1,15 +1,12 @@
 {
-  "applinks": {
-      "details": [
-           {
-             "appIDs": [ "ABCDE12345.com.example.app", "ABCDE12345.com.example.app2" ],
-             "components": [
-               {
-                  "/": "/buy/*",
-                  "comment": "Matches any URL with a path that starts with /buy/."
-               }
-             ]
-           }
-       ]
-   }
+    "applinks": {
+        "apps": [],
+        "details": {
+            "SDSLU2QT5X.com.muiz.idn.id.astradigital.adp.movic": {
+                "paths": [
+                    "*"
+                ]
+            }
+        }
+    }
 }
